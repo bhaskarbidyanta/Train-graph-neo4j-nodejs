@@ -1,0 +1,5 @@
+express
+neo4j-driver
+dotenv
+cors
+nodemon
